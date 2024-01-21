@@ -1,0 +1,24 @@
+.div1{
+    
+    align-items: center;
+    width: 50%;
+    margin-left: 280px;
+    background-color: black;
+
+}
+.img1{
+    border: 2px solid rgb(198, 202, 192);
+    
+    margin: 20px 30px 10px 30px;
+    width: 90%;
+    height: 400px;
+}
+h1{
+
+    color: azure;
+    
+}
+p{
+    color: beige;
+    padding: 20px;
+}

@@ -1,0 +1,31 @@
+html{
+    background-color: greenyellow;
+    
+}
+
+h1{
+    font-style: italic;
+   
+}
+.div1{
+    background-color: yellow;
+    width: 80%;
+    margin-left: 50px;
+    border: 10px;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.div2{
+    background-color: green;
+    width: 80%;
+    margin-left: 50px;
+    border: 10px;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.Menu{
+    text-align: right;
+}
